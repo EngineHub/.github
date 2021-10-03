@@ -4,11 +4,12 @@ Hey! We're EngineHub, we work on numerous Open Source Software projects that are
 
 Some of our main projects are,
 
-[![WorldEdit](https://github.com/EngineHub/WorldEdit/blob/master/worldedit-logo.svg)](https://github.com/EngineHub/WorldEdit)
+
+[<img width="400" alt="WorldEdit" src="https://github.com/EngineHub/WorldEdit/blob/master/worldedit-logo.svg">](https://github.com/EngineHub/WorldEdit)
 \
-[![WorldGuard](https://github.com/EngineHub/WorldGuard/raw/master/worldguard-logo.svg)](https://github.com/EngineHub/WorldGuard)
+[<img width="400" alt="WorldGuard" src="https://github.com/EngineHub/WorldGuard/raw/master/worldguard-logo.svg">](https://github.com/EngineHub/WorldGuard)
 \
-[![CraftBook](https://github.com/EngineHub/CraftBook/raw/master/craftbook-logo.svg)](https://github.com/EngineHub/CraftBook)
+[<img width="400" alt="CraftBook" src="https://github.com/EngineHub/CraftBook/raw/master/craftbook-logo.svg">](https://github.com/EngineHub/CraftBook)
 
 We also work on numerous other projects, which can be found by browsing our repositories.
 
